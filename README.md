@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniela Silva 
 
-  👩‍💻 Quality Assurance Engineer Sênior 
+  👩‍💻 Senior Quality Assurance Engineer
 
 🧠 Sobre Mim
 Sou apaixonada por qualidade de software e pela busca constante de melhorias nos processos de testes.
