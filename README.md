@@ -23,8 +23,8 @@ Apaixonada por qualidade de software, automação de testes e cultura DevOps. Es
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danisilva1310&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas de Daniela" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danisilva1310&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danisilva1310&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas de Daniela" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danisilva1310&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
