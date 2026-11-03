@@ -1,16 +1,18 @@
-# Hi there, I'm Daniela Silva! 👋
+# Olá! Meu nome é Daniela Silva! 👋
 
-### 👩‍💻 Senior QA Engineer / SDET
+### 👩‍💻 Engenheira Sênior de QA / SDET
 
 Apaixonada por qualidade de software, automação de testes e cultura DevOps. Especialista em estruturar arquiteturas de testes ponta a ponta (E2E), testes de API e integração contínua (CI/CD).
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
